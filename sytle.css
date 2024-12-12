@@ -5,7 +5,7 @@
 }
 
 .container{
-    background-color: black;
+    background-color: palevioletred;
     color: wheat;
     display: flex;
     justify-content: space-around;
