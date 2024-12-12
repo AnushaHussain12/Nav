@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: black;
+    color: wheat;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    font-size: 24px;
+    align-items: center;
+
+}
+
+.container ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 15px;
+}
